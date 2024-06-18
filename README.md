@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Passionate about Learning New Technologies</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="[[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d489187082](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdeveloper&psig=AOvVaw0-PwLDXLpR3z2baSezedYu&ust=1718771513982000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDMmoGp5IYDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw0-PwLDXLpR3z2baSezedYu&ust=1718771513982000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDMmoGp5IYDFQAAAAAdAAAAABAL)" alt="kirtichhabra" /> </p>
+<p align="left"> <img src="C:\Users\Testbook\Downloads\giphy.gif" alt="kirtichhabra" /> </p>
 
 - 📫 How to reach me **kirtichhabra99@gmail.com**
 
